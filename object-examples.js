@@ -7,3 +7,9 @@ var myCar = {
 }
 
 console.log(myCar);
+
+var dog = {
+  breed: 'border collie',
+  age: 3,
+  isMale: false
+}
